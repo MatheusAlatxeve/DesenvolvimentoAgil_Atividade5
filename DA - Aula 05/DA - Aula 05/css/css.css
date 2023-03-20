@@ -1,0 +1,20 @@
+/* header */
+.leiaute-cabecalho {
+    /* display e box model */
+    height: 100%;
+    border-bottom: 1px solid white;
+    background-color: rgb(41, 83, 131);
+    font-size: large;
+}
+.link{
+    float: right;
+    color: black;
+    padding: 40px;
+}
+
+footer {
+    /* display e box model */
+    background-color: rgb(41, 83, 131);
+    height: 60px;
+    font-size: large;
+}
